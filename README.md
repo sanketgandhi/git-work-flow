@@ -4,4 +4,4 @@ This is feture test
 
 And feature has been added successfully.
 
-IMS feature has been added successfully.
+IMS-123 has been developed.
